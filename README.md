@@ -4,7 +4,7 @@
 
 I am a recent graduate  of **Landmark University** with a degree in computer science and a mission to build technology that enriches lives, specifically in the healthcare sector. I specialize in building robust frontend applications and intelligent NLP solutions.
 
-Currently, I serve as the **IT Team Lead & Founding Front-End Engineer at Scarce** and a **Freelance Frontend Developer **.
+Currently, I serve as the **IT Team Lead & Founding Front-End Engineer at Scarce** and a Freelance Frontend Developer.
 
 ---
 
@@ -43,7 +43,7 @@ Currently, I serve as the **IT Team Lead & Founding Front-End Engineer at Scarce
 ### ⚡ Fun Facts
 * **Gamer at Heart:** I'm a big fan of **Baldur's Gate 3** and **Tale of Immortal**.
 * **Hardware Wizard:** I’m currently mastering the art of squeezing a stable 30fps out of an Intel HD 520 (Core i5 6th Gen) laptop! 💻
-* **Fitness:** When I'm not coding, I'm usually researching effective arm workouts. 💪
+* **Fitness:** When I'm not coding, I'm usually researching effective workouts. 💪
 
 ---
 
