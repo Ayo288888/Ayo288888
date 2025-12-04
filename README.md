@@ -1,10 +1,10 @@
 # Hi there, I'm Ayomide! 👋
 
-### Full Stack Developer | NLP Engineer | Tech Team Lead
+### Frontend Developer | Aspiring NLP Engineer 
 
-I am a final-year Computer Science student at **Landmark University** with a mission to build technology that enriches lives, specifically in the healthcare sector. I specialize in building robust frontend applications and intelligent NLP solutions.
+I am a recent graduate  of **Landmark University** with a degree in computer science and a mission to build technology that enriches lives, specifically in the healthcare sector. I specialize in building robust frontend applications and intelligent NLP solutions.
 
-Currently, I serve as the **IT Team Lead & Founding Front-End Engineer at Scarce** and a **Cowrywise Campus Ambassador**.
+Currently, I serve as the **IT Team Lead & Founding Front-End Engineer at Scarce** and a **Freelance Frontend Developer **.
 
 ---
 
