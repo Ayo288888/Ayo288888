@@ -22,7 +22,7 @@ Currently, I serve as the **IT Team Lead & Founding Front-End Engineer at Scarce
 ### 🌱 What I'm currently learning
 * **Google Cloud AI/ML Frameworks:** Deepening my understanding of cloud-based AI infrastructure.
 * **Advanced ML Datasets:** Researching diverse datasets (like fashion and medical data) to train better models.
-* **Cloud Gaming:** exploring cloud solutions to optimize performance on lower-end hardware.
+
 
 ---
 
@@ -43,7 +43,6 @@ Currently, I serve as the **IT Team Lead & Founding Front-End Engineer at Scarce
 ### ⚡ Fun Facts
 * **Gamer at Heart:** I'm a big fan of **Baldur's Gate 3** and **Tale of Immortal**.
 * **Hardware Wizard:** I’m currently mastering the art of squeezing a stable 30fps out of an Intel HD 520 (Core i5 6th Gen) laptop! 💻
-* **Fitness:** When I'm not coding, I'm usually researching effective workouts. 💪
 
 ---
 
