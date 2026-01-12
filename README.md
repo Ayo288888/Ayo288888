@@ -4,7 +4,7 @@
 
 I am a recent graduate  of **Landmark University** with a degree in computer science and a mission to build technology that enriches lives, specifically in the healthcare sector. I specialize in building robust frontend applications and intelligent NLP solutions.
 
-Currently, I serve as the **IT Team Lead & Founding Front-End Engineer at Scarce** and a Freelance Frontend Developer.
+
 
 ---
 
@@ -12,7 +12,7 @@ Currently, I serve as the **IT Team Lead & Founding Front-End Engineer at Scarce
 * **Scarce:** Leading the technical team and building the frontend architecture for our startup.
 * **Medical NLP Chatbot:** Developing an NLP-based chatbot for disease and symptom assessment as my Final Year Project.
 * **Healthcare Tech:** Working towards my goal of building a comprehensive healthcare assistant for patients and professionals.
-* **Radio Website:** Recently built a radio station platform using React, Tailwind CSS, and Node.js.
+
 
 ### 👯 What I'm looking to collaborate on
 * Open-source **HealthTech** projects.
@@ -36,6 +36,8 @@ Currently, I serve as the **IT Team Lead & Founding Front-End Engineer at Scarce
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor="/> 
 </p>
 
 ---
