@@ -36,7 +36,6 @@ I am a recent graduate  of **Landmark University** with a degree in computer sci
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor="/> 
 </p>
 
@@ -44,7 +43,7 @@ I am a recent graduate  of **Landmark University** with a degree in computer sci
 
 ### ⚡ Fun Facts
 * **Gamer at Heart:** I'm a big fan of **Baldur's Gate 3** and **Tale of Immortal**.
-* **Hardware Wizard:** I’m currently mastering the art of squeezing a stable 30fps out of an Intel HD 520 (Core i5 6th Gen) laptop! 💻
+
 
 ---
 
