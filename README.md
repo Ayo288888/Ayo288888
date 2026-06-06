@@ -10,8 +10,9 @@ I am a Computer Science graduate dedicated to bridging the gap between intellige
 * **Scarce:** Serving as Technical Team Lead and Founding Frontend Engineer, architecting a high-performance fashion recommendation platform.
 * **Multimodal Forensics & Deepfake Detection:** Engineering an advanced multi-layered verification system with deep learning modules for vision (YOLO/EfficientNet), audio (Wav2Vec2/Torchaudio), text, and structural URL phishing classification (**PhishGuard**).
 
-* **AI-Based Healthcare Di* **n8n AI Cold Email Generator:** Building a custom automated outreach agent utilizing **n8n** workflow orchestration, LLM prompt engineering, and web scraping hooks to generate highly personalized, context-aware cold emails.agnosis:** Developing a clinical-grade medical NLP chatbot utilizing specialized transformer models (**MedBERT**, **ClinicalBERT**) to interpret syntax from the MedQuAD dataset and predict symptom outcomes.
-Healthcare Tech:** Working towards my goal of building a comprehensive healthcare assistant for patients and professionals.
+* **AI-Based Healthcare Di* **n8n AI Cold Email Generator:** Building a custom automated outreach agent utilizing **n8n** workflow orchestration, LLM prompt engineering, and web scraping hooks to generate highly personalized, context-aware cold emails.agnosis:
+* ** Developing a clinical-grade medical NLP chatbot utilizing specialized transformer models (**MedBERT**, **ClinicalBERT**) to interpret syntax from the MedQuAD dataset and predict symptom outcomes.
+* ** Healthcare Tech:** Working towards my goal of building a comprehensive healthcare assistant for patients and professionals.
 ### 👯 Focus Areas for Collaboration
 * **Generative AI & LLM Orchestration:** Production-grade pipelines utilizing **LangChain** and Retrieval-Augmented Generation (**RAG**).
 * **Deep Computer Vision:** Fine-tuning architectures (Faster R-CNN, ResNet-50 FPN) for sequence analysis and autonomous spatial detection datasets like KITTI.
